@@ -1,0 +1,17 @@
+This report contains the user and their connections:
+Name: Amit
+Friends: ['Priya', 'Rahul']
+Liked Pages: ['Python Developers']
+
+Name: Priya
+Friends: ['Amit', 'Sara']
+Liked Pages: ['Data Science Enthusiasts']
+
+Name: Rahul
+Friends: ['Amit']
+Liked Pages: ['Python Developers', 'AI & ML Community']
+
+Name: Sara
+Friends: ['Priya']
+Liked Pages: ['Web Dev Hub']
+
